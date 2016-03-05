@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A redux to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchappypig/todo-app.git"
+  },
+  "keywords": [
+    "todo",
+    "redux"
+  ],
+  "author": "Huanhuan Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchappypig/todo-app/issues"
+  },
+  "homepage": "https://github.com/jchappypig/todo-app#readme"
+}
